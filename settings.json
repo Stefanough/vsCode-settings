@@ -19,7 +19,6 @@
             "before": ["o","o"],
             "after": ["o","<Exc>","k"]
         }
-
     ],
     "vim.useSystemClipboard": false,
     "vim.cmdLineInitialColon": true,
@@ -29,7 +28,6 @@
     "editor.renderLineHighlight": "gutter",
     "workbench.tree.horizontalScrolling": false,
     "vim.statusBarColorControl": false,
-    "editor.fontWeight": "200",
     "vim.showmodename": true,
     "editor.renderIndentGuides": false,
     "editor.colorDecorators": false,
@@ -38,11 +36,25 @@
            "editorRuler.foreground": "#163824",
            "editor.background": "#191919",
            "statusBar.border": "#163824",
-           "statusBar.background": "#191919"
+           "statusBar.background": "#191919",
+           "sideBar.border": "#163824",
+           "sideBar.background": "#191919"
        }
     },
     "editor.rulers": [
         0
     ],
-    "editor.roundedSelection": false
+    "editor.roundedSelection": false,
+    "[javascriptreact]": {
+        
+    },
+    "workbench.iconTheme": null,
+    "editor.renderWhitespace": "none",
+    "editor.renderControlCharacters": false,
+    "editor.glyphMargin": false,
+    "scm.diffDecorationsGutterWidth": 2,
+    "scm.diffDecorations": "gutter",
+    "editor.formatOnSaveTimeout": 750,
+    "editor.fontFamily": "'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "editor.fontLigatures": false,
 }
