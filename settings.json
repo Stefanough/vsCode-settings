@@ -57,4 +57,5 @@
     "editor.formatOnSaveTimeout": 750,
     "editor.fontFamily": "'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
     "editor.fontLigatures": false,
+    "editor.detectIndentation": false,
 }
